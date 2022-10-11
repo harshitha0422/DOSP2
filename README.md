@@ -1,4 +1,4 @@
-# Project 2  Gossip Simulator
+# Project 2  Gossip Algorithm
 This is project 2 in the course COP5615 Distributed Operating System Principles. We implemented the gossip and push-sum algorithms over networks of arbitrary size with various network topologies.
 
 
